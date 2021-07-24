@@ -1,0 +1,4 @@
+node-modules
+.idea
+frontend/node_modules
+.cache
